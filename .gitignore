@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Sentiment1_50M.h5
+word_index_50M.pickle
